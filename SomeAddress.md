@@ -2,6 +2,36 @@
 
 | 名称                 | 网址                                              |
 | -------------------- | ------------------------------------------------- |
+|        Cisco Router     |         |
+|     ForcePoint FireWall        |         |
+|     Hillstone	FireWall        |         |
+|       Juniper	switches      |         |
+|      Juniper	 Router	       |         |
+|      office 365/2019/2016/2013       |         |
+|      zimbra       |         |
+|         exim    |         |
+|       adobe      |         |
+|          Paloalto 防火墙  |         |
+|          F5 BigIP防火墙   |         |
+|          sophos XG防火墙   |         |
+|           Fortigate防火墙  |         |
+|     Windows 7/8/10/2008/2012/2016/2019        |         |
+|      MAC OS        |         |
+|        vxworks     |         |
+|        Anhlab     |         |
+|       Mcafee EPO      |         |
+|        Vmware workstation 12/14/15     |         |
+|          qemu虚拟化   |         |
+|       Hyper-V虚拟化      |         |
+|          ESXI虚拟化   |         |
+|         Docker虚拟化    |         |
+|             |         |
+|             |         |
+|             |         |
+|  智能设备           |         |
+|     iOS        |         |
+|        Android     |         |
+|     IE浏览器        |         |
 | Chrome               | https://www.google.cn/intl/zh-CN/chrome/          |
 | FireFox              | http://www.firefox.com.cn/                        |
 | Safari               | None                                              |
